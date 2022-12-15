@@ -1,17 +1,17 @@
 body {
-    background-color:black;
+    background-color:rgb(214, 91, 91);
   }
  
   .heading {
-    background-color: rgb(144, 224, 239);
+    background-color: rgb(8, 8, 8);
     margin-bottom: 20px;
     padding: 5px 0px 5px 15px;
   }
   
   .title {
-    background-color: rgb(0, 180, 216);
+    background-color: rgb(98, 120, 124);
     padding: 5px;
-    color: white;
+    color: rgb(31, 28, 28);
     text-align: center;
   }
   
@@ -27,7 +27,7 @@ body {
   }
   
   #subtitle {
-    color: rgb(3, 4, 94);
+    color: rgb(252, 252, 255);
     text-align:center ;
   }
   
